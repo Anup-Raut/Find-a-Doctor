@@ -162,6 +162,10 @@ Patients can search for doctors using multiple criteria:
 - Transaction history tracking
 
 ## 📸 Screenshots
+![Home](screenshot(14)/Home_screen.jpg)  
+![Consultant](screenshot(20)/Consultation_screen.jpg)  
+![List of Doctors](screenshot(15)/Doctor_screen.jpg)  
+![Home](screenshot(17)/Home_screen.jpg)  
 
 The application includes:
 - Clean, modern registration interface
